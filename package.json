@@ -1,0 +1,22 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "graphSQL examples",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavacn/examples.git"
+  },
+  "keywords": [
+    "graphSQL"
+  ],
+  "author": "iamee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavacn/examples/issues"
+  },
+  "homepage": "https://github.com/cavacn/examples#readme"
+}

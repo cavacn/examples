@@ -1,50 +1,9 @@
 {
-  "name": "examples",
-  "version": "1.0.0",
-  "description": "graphQL examples",
+  "name": "cavacn-examples",
+  "version": "vue",
+  "description": "vue",
   "main": "dist/index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cavacn/examples.git"
-  },
-  "keywords": [
-    "graphQL"
-  ],
-  "author": "iamee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cavacn/examples/issues"
-  },
-  "homepage": "https://github.com/cavacn/examples#readme",
-  "dependencies": {
-    "@types/koa-bodyparser": "^3.0.23",
-    "@types/koa-router": "^7.0.22",
-    "graphql": "^0.9.6",
-    "graphql-server-koa": "^0.7.2",
-    "koa": "2",
-    "koa-bodyparser": "next",
-    "koa-router": "next"
-  },
-  "devDependencies": {
-    "@types/jest": "^19.2.3",
-    "@types/supertest": "^2.0.0",
-    "jest": "^20.0.4",
-    "supertest": "^3.0.0",
-    "ts-jest": "^20.0.4",
-    "typescript": "^2.3.3"
-  },
-  "jest": {
-    "transform": {
-      ".(ts|tsx)": "<rootDir>/node_modules/ts-jest/preprocessor.js"
-    },
-    "testRegex": "(/src/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$",
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js"
-    ]
-  }
+  "repository": "https://github.com/cavacn/examples.git",
+  "author": "iamee <admin@cavacn.com>",
+  "license": "MIT"
 }
